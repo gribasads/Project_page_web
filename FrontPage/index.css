@@ -1,0 +1,9 @@
+#nav {
+    color: aliceblue;
+    font: 12px Verdana;
+}
+#menu {
+    width: 30%;
+    margin: 0; padding: 0;
+    float: left;
+    }
